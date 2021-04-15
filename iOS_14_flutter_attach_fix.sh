@@ -1,4 +1,4 @@
-InfoPlistPath=FlyFish/FlyFish-Info.plist
+InfoPlistPath=xxx/xxx-Info.plist
 echo $InfoPlistPath
 echo "Flutter Start Fix🍺🍺🍺"
 if [ -f $InfoPlistPath ];then
