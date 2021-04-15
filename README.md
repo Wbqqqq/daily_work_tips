@@ -1,2 +1,2 @@
-# My-shell
+# MyShell
 daily work shells
