@@ -12,6 +12,7 @@
 2. git revert -n xxx (reverse a node)
 3. git push -f （force to push）
 4. git commit -m "xx" （commit something）
+5. git clone --single-branch -b (fetch the only single branch, no other branch info)
 
 
 ### flutter && android studio
