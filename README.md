@@ -13,6 +13,7 @@
 3. git push -f （force to push）
 4. git commit -m "xx" （commit something）
 5. git clone --single-branch -b (fetch the only single branch, no other branch info)
+6. git cherry-pick xxx (copy other branch's commit to the current branch )
 
 
 ### flutter && android studio
