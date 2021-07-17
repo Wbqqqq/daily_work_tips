@@ -16,6 +16,7 @@
 6. git cherry-pick xxx (copy other branch's commit to the current branch )
 
 
+
 ### flutter && android studio
 
 1. flutter version 1.17.5-0.1.pre （select a version，expired）
@@ -26,6 +27,7 @@
 6. command + option + M (method extraction)
 7. command + option + W (class extraction)
 8. [flutter sinppets](https://github.com/georgeherby/flutter-snippets/blob/master/README.md)
+9. shift+f6+fn (change the all property)
 
 ### zch 
 1. sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)" (oh-my-zsh)
