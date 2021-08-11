@@ -32,7 +32,7 @@
 ### zch 
 1. sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)" (oh-my-zsh)
 2. git clone git://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions （automatic completion，use direction key “->” to complete /
-   vim ~/.zshrc plugins=(git zsh-autosuggestions / source ~/.zshrc)
+   vim ~/.zshrc plugins=(git zsh-autosuggestions) / source ~/.zshrc)
 3. ZSH_DISABLE_COMPFIX=true （add to ~/.zshrc header to remove warning）
 
 ### xcode
