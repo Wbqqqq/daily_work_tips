@@ -30,7 +30,7 @@
 9. shift+f6+fn (change the all property)
 10.command + n (product some methods)
 
-### zch 
+### zsh 
 1. sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)" (oh-my-zsh)
 2. git clone git://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions （automatic completion，use direction key “->” to complete /
    vim ~/.zshrc plugins=(git zsh-autosuggestions) / source ~/.zshrc)
