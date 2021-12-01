@@ -28,7 +28,7 @@
 7. command + option + W (class extraction)
 8. [flutter sinppets](https://github.com/georgeherby/flutter-snippets/blob/master/README.md)
 9. shift+f6+fn (change the all property)
-10.command + n (product some methods)
+10. command + n (product some methods)
 
 ### zsh 
 1. sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)" (oh-my-zsh)
